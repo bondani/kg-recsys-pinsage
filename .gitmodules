@@ -1,0 +1,6 @@
+[submodule "GF_CF"]
+	path = GF_CF
+	url = https://github.com/yshenaw/GF_CF.git
+[submodule "NGCF-PyTorch"]
+	path = NGCF-PyTorch
+	url = https://github.com/huangtinglin/NGCF-PyTorch
